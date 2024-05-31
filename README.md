@@ -7,11 +7,11 @@ A POC weather report log file contains a growing history of the daily weather da
 
 The weather report will be downloaded from wttr.in
 
-Shell commands are used to extract only the data needed (the signal)
-Everything else is filtered out (the noise)
-The filters are combined into a pipeline (the use of pipes to chain filters together)
+*Shell commands are used to extract only the data needed (the signal)
+*Everything else is filtered out (the noise)
+*The filters are combined into a pipeline (the use of pipes to chain filters together)
 
 Credits:
-IBM
-Jeff Grossman
+IBM,
+Jeff Grossman,
 Rav Ahuja
